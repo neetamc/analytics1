@@ -8,3 +8,7 @@ install.packages('car')
 ?mean
 x = 1:100
 y
+y=seq(1,100, by=2)
+data()
+iris
+install.packages("MASS")
